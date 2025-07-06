@@ -77,14 +77,21 @@ Supports dropdown filtering by lot_id
 
 ![bokeh2](https://github.com/user-attachments/assets/707509db-1831-4071-be5a-e39c81ad7f91)
 This is interface of dashboard, after uploading dataset csv we can see different dashboards
+
 ![bokeh3](https://github.com/user-attachments/assets/5850dd3a-7c69-4d7e-b16e-678d8fe2c2d5)
 Navigation panel allows us to choose particular analysis (model) and understand the role.
+
 ![bokeh 9](https://github.com/user-attachments/assets/5d84228a-111e-4ff1-ab83-b4489ceb7686)
 This is dashboard for occupancy distribution and Queue lenght distribution
+
 ![bokeh4](https://github.com/user-attachments/assets/1af1909f-2087-4e49-bcb5-acce82ebf154)
+
 ![bokeh 5](https://github.com/user-attachments/assets/4a7a6620-2f67-47f1-895c-1aa0511c5317)
+
 ![bokeh 6](https://github.com/user-attachments/assets/647bd18f-bdf5-43cf-920d-2cee2635fb51)
+
 ![bokeh 7](https://github.com/user-attachments/assets/4cccf68b-d6c8-4e6a-bb78-b4978838490d)
+
 ![bokeh 8](https://github.com/user-attachments/assets/d1b6c321-d1db-4981-9c8f-cfcf76702e0d)
 
 
