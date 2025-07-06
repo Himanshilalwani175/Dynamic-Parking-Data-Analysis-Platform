@@ -32,6 +32,7 @@ It integrates:
 ## 🏗️ System Architecture
 
 graph LR
+
     A[Raw Data (CSV)] --> B[Preprocessing in Colab]
     B --> C[Model 1: Linear Occupancy Pricing]
     B --> D[Model 2: Demand-Based Pricing]
