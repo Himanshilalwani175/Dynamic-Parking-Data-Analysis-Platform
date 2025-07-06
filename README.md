@@ -44,21 +44,21 @@ graph LR
 
     
 ## Project Architecture & Workflow
-# 1. Data Preprocessing
+1. Data Preprocessing
 Merges occupancy, queue length, special day, and location data
 Outputs parking_stream.csv for real-time use
 
-# 2. Modeling
+2. Modeling
 Model 1: Linear pricing based on past occupancy trends
 Model 2: Uses a demand function including traffic, queue, and vehicle type
 Model 3: Adds spatial logic — adjusts price based on nearby lot pricing (Haversine)
 
-# 3. Real-Time Streaming with Pathway
+3. Real-Time Streaming with Pathway
 Continuously consumes parking_stream.csv
 Computes prices per lot in real time
 Writes pathway_output.csv (used in visualization)
 
-# 4. Live Visualization (Bokeh)
+4. Live Visualization (Bokeh)
 Auto-refreshing dashboard showing per-lot pricing over time
 Supports dropdown filtering by lot_id
 
